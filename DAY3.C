@@ -1,4 +1,4 @@
-//2. WAP a C program to Convert temperature from Celsius to Fahrenheit using the
+//Write a program to convert temperature from Celsius to Fahrenheit.
 //formula: F = (C * 9/5) + 32. 
 /*#include<stdio.h>
 int main() {
@@ -9,6 +9,7 @@ int main() {
 	printf("The temp in fahrenhiet is %f", F);
 	return 0;
 }*/
+//Write a program to swap two numbers using a third variable.
 /*#include <stdio.h>
 int main() {
    int a, b, temp;
@@ -26,4 +27,5 @@ int main() {
    // Display numbers after swapping
    printf("After swapping: a = %d, b = %d\n", a, b);
    return 0;
+
 }*/
