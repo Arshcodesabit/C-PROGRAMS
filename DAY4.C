@@ -1,3 +1,4 @@
+//Write a program to swap two numbers without using a third variable.
 /*#include <stdio.h>
 
 int main() {
@@ -14,9 +15,12 @@ int main() {
     printf("After swapping: a = %d, b = %d\n", a, b);
     return 0;
 }*/
-#include <stdio.h>
+//Write a program to find and display the sum of the first n natural numbers.
 
-/*int main() {
+
+/*#include <stdio.h>
+
+int main() {
     int n, sum = 0;
 
     
@@ -33,3 +37,4 @@ int main() {
 
     return 0;
 }*/
+
