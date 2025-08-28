@@ -1,3 +1,5 @@
+//Write a program to calculate the area and perimeter of a rectangle given its length and breadth.
+
 /*#include<stdio.h>
 int main(){
     int a, b;
@@ -11,6 +13,7 @@ int main(){
     printf("\nThe perimeter is  %d", perimeter);
     return 0;
 }*/
+//Write a program to calculate the area and circumference of a circle given its radius.
 /*#include<stdio.h>
 int main() {
     float radius;
@@ -21,3 +24,4 @@ int main() {
     return 0;
 
 }*/
+
