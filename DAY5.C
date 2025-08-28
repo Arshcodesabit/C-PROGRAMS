@@ -15,6 +15,8 @@ int main(){
 	printf("The CI is %f", A);
 	return 0;
 }*/
+//Write a program to input time in seconds and convert it to hours:minutes:seconds format.
+
 /*#include <stdio.h>
 
 int main() {
@@ -35,3 +37,4 @@ int main() {
 
     return 0;
 }*/
+
